@@ -1,0 +1,9 @@
+Klasyczny algorytm mnozenia macierzy, liczba watkow 8 
+Czas wykonania programu:   0.6480 sec (0.0010 sec rozdzielczosc pomiaru)
+Czas wykonania programu:   0.1440 sec (0.0010 sec rozdzielczosc pomiaru)
+Czas wykonania programu:   0.5640 sec (0.0010 sec rozdzielczosc pomiaru)
+Czas wykonania programu:   2.7610 sec (0.0010 sec rozdzielczosc pomiaru)
+Klasyczny algorytm mnozenia macierzy, liczba watkow 8 
+Czas wykonania programu:  10.0870 sec (0.0010 sec rozdzielczosc pomiaru)
+Klasyczny algorytm mnozenia macierzy, liczba watkow 8 
+Czas wykonania programu:   1.5550 sec (0.0010 sec rozdzielczosc pomiaru)
